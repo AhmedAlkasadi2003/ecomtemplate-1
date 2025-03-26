@@ -49,5 +49,11 @@ npm run build
 ## Live demo
 Check the live demo here: [https://tailwind-ecommerce-demo.vercel.app/](https://tailwind-ecommerce-demo.vercel.app/)
 
-## License
-[The MIT License (MIT)](https://github.com/bbulakh/tailwind-ecommerce/blob/main/LICENSE)
+## name 
+Ahmed Alkasadi
+## @gmail.com
+ahmed.alkasadi2003@gmail.com
+## github
+[https://github.com/AhmedAlkasadi2003]
+## phon
++967 770500789
